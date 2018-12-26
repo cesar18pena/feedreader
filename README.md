@@ -5,7 +5,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 ![](images/result-tests.png)
 
 ## How to run this project
-- Run this command `https://github.com/cesar18pena/feedreader.git`
+- Run this command `git clone https://github.com/cesar18pena/feedreader.git`
 - Open `index.html` file and the project start
 
 ## Material used to complete this project:
